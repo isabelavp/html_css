@@ -1,0 +1,62 @@
+#uno{
+	background-color: 50px solid green;
+	color: yellow;
+
+}
+
+#dos{
+	background-image: url(../imagen/cuadrado.jpg);
+
+}
+
+
+.block {
+	display: block;
+}
+
+.caja{
+	height: 100px;
+	width: 100px;
+	border: 2px solid black;
+	margin: 5px;
+	display: inline-block;
+
+}
+
+#red {
+	background-color: gold;
+	visibility: hidden;
+
+
+}
+
+#blue {
+	height: 250px;
+	width: 250px;
+	background-image: url(../imagen/triangulo.jpg);
+	/*display: none */;
+
+}
+
+#green {
+	background-color: black;
+	color: #fff;
+
+}
+
+#yellow {
+background-color: red;
+}
+
+#brown {
+	background-color: rgba(50,10,20,30);
+	color: yellow;
+
+}
+
+#orange {
+	padding: 20px green;
+	border-image: 20px blue;
+	background-image: url(../imagen/circulo.png);
+
+}
